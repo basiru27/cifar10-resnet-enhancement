@@ -6,6 +6,7 @@
 -  Amadou Basiru Jallow
 -  Yusupha Conta
 -  Muhammed Sillah
+
 **Date:** January 2026  
 **Course:** Introduction to Artificial Intelligence
 
