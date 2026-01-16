@@ -10,6 +10,7 @@ Improve ResNet18 performance on CIFAR-10 through systematic enhancements.
 - `models/` - Saved checkpoints
 - `results/` - Metrics and visualizations
 - `notebooks/` - Training code
+- `src/` - Source code
 - `docs/` - Final report
 
 ## Status
